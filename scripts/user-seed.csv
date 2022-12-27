@@ -1,0 +1,32 @@
+name,email,phone,address,city,state,country,zip,age,company,employee_id,marketing,user_type
+John Smith,johnsmith@gmail.com,555-555-1212,123 Main St,New York,NY,USA,10001,32,ACME Inc,1234,TRUE,volunteer
+Jane Doe,jane.doe@acme.com,555-555-2323,456 Park Ave,Los Angeles,CA,USA,90001,28,ACME Inc,5678,FALSE,coordinator
+Sarah Johnson,sarah.johnson@example.com,555-555-3456,789 Market St,San Francisco,CA,USA,94103,35,XYZ Corp,9012,TRUE,admin
+Tom Thompson,tom.thompson@acme.com,555-555-4567,246 Broadway,New York,NY,USA,10007,29,ACME Inc,3456,TRUE,volunteer
+Emma Williams,emma.williams@xyz.com,555-555-5678,159 Market St,San Francisco,CA,USA,94105,33,XYZ Corp,7890,FALSE,coordinator
+Mike Johnson,mike.johnson@gmail.com,555-555-6789,123 Market St,San Francisco,CA,USA,94103,25,ABC Corp,1234,TRUE,admin
+Sara Smith,sara.smith@abc.com,555-555-7890,456 Park Ave,Los Angeles,CA,USA,90001,31,ABC Corp,5678,TRUE,volunteer
+Jessica Brown,jessica.brown@abc.com,555-555-8901,789 Broadway,New York,NY,USA,10001,30,ABC Corp,9012,FALSE,coordinator
+Adam Williams,adam.williams@acme.com,555-555-9012,159 Market St,San Francisco,CA,USA,94105,35,ACME Inc,3456,TRUE,admin
+Emily Jones,emily.jones@xyz.com,555-555-0123,246 Broadway,New York,NY,USA,10007,28,XYZ Corp,7890,TRUE,volunteer
+Linda Johnson,linda.johnson@example.com,555-555-1234,123 Main St,New York,NY,USA,10001,31,ABC Corp,1234,FALSE,coordinator
+David Thompson,david.thompson@acme.com,555-555-2345,456 Park Ave,Los Angeles,CA,USA,90001,29,ACME Inc,5678,TRUE,admin
+Emily Brown,emily.brown@xyz.com,555-555-3456,789 Market St,San Francisco,CA,USA,94103,33,XYZ Corp,9012,TRUE,volunteer
+Samantha Williams,samantha.williams@abc.com,555-555-4567,159 Market St,San Francisco,CA,USA,94105,32,ABC Corp,3456,FALSE,coordinator
+Bob Smith,bobjsmith@gmail.com,555-555-1212,123 Main St,New York,NY,USA,,32,,,TRUE,volunteer
+Carol Jones,carol.jones@gmail.com,555-555-2323,456 Park Ave,Los Angeles,CA,USA,,28,,,FALSE,volunteer
+Mike Williams,mike.williams@gmail.com,555-555-3456,789 Market St,San Francisco,CA,USA,,35,,,TRUE,volunteer
+Sue Johnson,sue.johnson@gmail.com,555-555-4567,246 Broadway,New York,NY,USA,,29,,,TRUE,volunteer
+David Brown,david.brown@gmail.com,555-555-5678,159 Market St,San Francisco,CA,USA,,33,,,FALSE,volunteer
+Amy Thompson,amy.thompson@gmail.com,555-555-6789,123 Market St,San Francisco,CA,USA,,25,,,TRUE,volunteer
+Jill Smith,jill.smith@gmail.com,555-555-7890,456 Park Ave,Los Angeles,CA,USA,,31,,,TRUE,volunteer
+Alex Williams,alex.williams@gmail.com,555-555-8901,789 Broadway,New York,NY,USA,,30,,,FALSE,volunteer
+Sam Johnson,sam.johnson@gmail.com,555-555-9012,159 Market St,San Francisco,CA,USA,,35,,,TRUE,volunteer
+Nancy Jones,nancy.jones@gmail.com,555-555-0123,246 Broadway,New York,NY,USA,,28,,,TRUE,volunteer
+Tom Brown,tom.brown@gmail.com,555-555-1234,123 Main St,New York,NY,USA,,31,,,FALSE,volunteer
+Sara Williams,sara.williams@gmail.com,555-555-2345,456 Park Ave,Los Angeles,CA,USA,,29,,,TRUE,volunteer
+Michael Thompson,michael.thompson@gmail.com,555-555-3456,789 Market St,San Francisco,CA,USA,,33,,,TRUE,volunteer
+Emily Johnson,emily.johnson@gmail.com,555-555-4567,159 Market St,San Francisco,CA,USA,,32,,,FALSE,volunteer
+Jason Smith,jason.smith@gmail.com,555-555-5678,123 Market St,San Francisco,CA,USA,,29,,,TRUE,volunteer
+Katie Williams,katie.williams@gmail.com,555-555-6789,246 Broadway,New York,NY,USA,,32,,,FALSE,volunteer
+Tom Thompson,tom.thompson@gmail.com,555-555-7890,123 Main St,New York,NY,USA,,30,,,TRUE,volunteer
