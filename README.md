@@ -1,4 +1,4 @@
-## Backend for volunteer connect
+# Backend for volunteer connect
 
 ### Description
 Part of softaware engineering class capstone project.
